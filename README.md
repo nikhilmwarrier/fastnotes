@@ -1,0 +1,2 @@
+# fastnotes
+Fastnotes web notepad
